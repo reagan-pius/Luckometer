@@ -1,0 +1,19 @@
+1.395s: START SCREEN DISPLAYED
+3.333s: START BUTTON CLICKED
+3.358s: INSTRUCTIONS SCREEN DISPLAYED
+6.867s: SPACEBAR PRESSED
+6.867s: Intro Music Playing
+6.877s: scenario1 displayed
+8.02s: s1_choice2 CLICKED
+8.02s: positive outcome displayed
+10.266s: CONTINUE CLICKED
+10.284s: scenario2 displayed
+12.409s: s2_choice1 CLICKED
+12.409s: negative outcome displayed
+13.928s: CONTINUE CLICKED
+13.947s: scenario3 displayed
+19.98s: s3_choice1 CLICKED
+19.98s: positive outcome displayed
+24.017s: CONTINUE CLICKED
+24.035s: scenario4 displayed
+36.971s: QUIT CLICKED
